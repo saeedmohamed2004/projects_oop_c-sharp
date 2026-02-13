@@ -1,0 +1,14 @@
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\bin\Debug\net9.0\Library management system project.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\bin\Debug\net9.0\Library management system project.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\bin\Debug\net9.0\Library management system project.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\bin\Debug\net9.0\Library management system project.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\bin\Debug\net9.0\Library management system project.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\refint\Library management system project.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\Library management system project.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Library management system project\Library management system project\obj\Debug\net9.0\ref\Library management system project.dll
