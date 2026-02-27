@@ -1,0 +1,14 @@
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\bin\Debug\net9.0\Student Grading System.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\bin\Debug\net9.0\Student Grading System.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\bin\Debug\net9.0\Student Grading System.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\bin\Debug\net9.0\Student Grading System.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\bin\Debug\net9.0\Student Grading System.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\refint\Student Grading System.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\Student Grading System.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\مشاريع oop\Student Grading System\Student Grading System\obj\Debug\net9.0\ref\Student Grading System.dll
