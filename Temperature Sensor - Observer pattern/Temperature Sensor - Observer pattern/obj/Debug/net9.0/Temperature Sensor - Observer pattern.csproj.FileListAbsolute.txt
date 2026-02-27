@@ -1,0 +1,14 @@
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\bin\Debug\net9.0\Temperature Sensor - Observer pattern.exe
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\bin\Debug\net9.0\Temperature Sensor - Observer pattern.deps.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\bin\Debug\net9.0\Temperature Sensor - Observer pattern.runtimeconfig.json
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\bin\Debug\net9.0\Temperature Sensor - Observer pattern.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\bin\Debug\net9.0\Temperature Sensor - Observer pattern.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.AssemblyInfoInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.AssemblyInfo.cs
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.csproj.CoreCompileInputs.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\refint\Temperature Sensor - Observer pattern.dll
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.pdb
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\Temperature Sensor - Observer pattern.genruntimeconfig.cache
+D:\Desktop\تاسكات مبادره sql\كورس C#\Level-D\مشاريع level-d\Temperature Sensor - Observer pattern\Temperature Sensor - Observer pattern\obj\Debug\net9.0\ref\Temperature Sensor - Observer pattern.dll
